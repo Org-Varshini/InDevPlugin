@@ -1,6 +1,0 @@
-{
-    "name": "Petals",
-    "id": "com.adobe.hz.petals",
-    "main": "petals.js",
-    "type": "managed-ui"
-}
